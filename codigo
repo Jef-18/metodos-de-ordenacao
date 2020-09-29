@@ -34,7 +34,7 @@ int main(){
     
     do{
         printf("\n\n\n");
-        printf(" ************* MÉTODOS DE ORDENAÇÃO ******************\n\n");
+        printf(" ************* MÉTODOS DE ORDENAÇÃO *************\n\n");
         printf(" 1 - BUBBLE SORT\n");
         printf(" 2 - SELECTION SORT\n");
         printf(" 3 - INSERTION SORT\n");
