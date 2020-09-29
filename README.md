@@ -216,3 +216,5 @@ void quick(int vetor[tamanhoVetor], int inicio, int fim){
 }
     
 
+
+
