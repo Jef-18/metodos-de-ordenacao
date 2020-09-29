@@ -208,7 +208,7 @@ void quick(int vetor[tamanhoVetor], int inicio, int fim){
     }while(j > i);   //Enquanto os ponteiros não se cruzarem
     
     if(inicio < j){
-       quick(vetor,inicio,j); 
+       quick(vetor, inicio, j); 
     } 
     if(i < fim){
         quick(vetor, i, fim);    
